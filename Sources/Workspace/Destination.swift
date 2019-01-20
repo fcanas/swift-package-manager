@@ -1,6 +1,6 @@
 import Basic
 import Build
-import Utility
+import SPMUtility
 import POSIX
 
 enum DestinationError: Swift.Error {

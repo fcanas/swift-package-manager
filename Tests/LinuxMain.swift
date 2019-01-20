@@ -11,7 +11,7 @@ import PackageLoadingTests
 import PackageModelTests
 import SourceControlTests
 import TestSupportTests
-import UtilityTests
+import SPMUtilityTests
 import WorkspaceTests
 import XcodeprojTests
 
